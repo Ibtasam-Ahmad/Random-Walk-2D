@@ -1,0 +1,31 @@
+C:\Users\0319be\Downloads\RandomWalk2D\RandomWalk2D\bin\Debug\RandomWalk2D.exe.config
+C:\Users\0319be\Downloads\RandomWalk2D\RandomWalk2D\bin\Debug\RandomWalk2D.exe
+C:\Users\0319be\Downloads\RandomWalk2D\RandomWalk2D\bin\Debug\RandomWalk2D.pdb
+C:\Users\0319be\Downloads\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.csprojResolveAssemblyReference.cache
+C:\Users\0319be\Downloads\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.Form1.resources
+C:\Users\0319be\Downloads\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.Properties.Resources.resources
+C:\Users\0319be\Downloads\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.csproj.GenerateResource.Cache
+C:\Users\0319be\Downloads\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.exe
+C:\Users\0319be\Downloads\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.pdb
+E:\CPS LAB\RandomWalk2D\RandomWalk2D\bin\Debug\RandomWalk2D.exe.config
+E:\CPS LAB\RandomWalk2D\RandomWalk2D\bin\Debug\RandomWalk2D.exe
+E:\CPS LAB\RandomWalk2D\RandomWalk2D\bin\Debug\RandomWalk2D.pdb
+E:\CPS LAB\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.csproj.AssemblyReference.cache
+E:\CPS LAB\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.csproj.SuggestedBindingRedirects.cache
+E:\CPS LAB\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.Form1.resources
+E:\CPS LAB\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.Properties.Resources.resources
+E:\CPS LAB\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.csproj.GenerateResource.cache
+E:\CPS LAB\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.csproj.CoreCompileInputs.cache
+E:\CPS LAB\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.exe
+E:\CPS LAB\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.pdb
+E:\All Files Folder\CPS LAB\Mids\RandomWalk2D\RandomWalk2D\bin\Debug\RandomWalk2D.exe.config
+E:\All Files Folder\CPS LAB\Mids\RandomWalk2D\RandomWalk2D\bin\Debug\RandomWalk2D.exe
+E:\All Files Folder\CPS LAB\Mids\RandomWalk2D\RandomWalk2D\bin\Debug\RandomWalk2D.pdb
+E:\All Files Folder\CPS LAB\Mids\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.csproj.AssemblyReference.cache
+E:\All Files Folder\CPS LAB\Mids\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.csproj.SuggestedBindingRedirects.cache
+E:\All Files Folder\CPS LAB\Mids\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.Form1.resources
+E:\All Files Folder\CPS LAB\Mids\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.Properties.Resources.resources
+E:\All Files Folder\CPS LAB\Mids\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.csproj.GenerateResource.cache
+E:\All Files Folder\CPS LAB\Mids\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.csproj.CoreCompileInputs.cache
+E:\All Files Folder\CPS LAB\Mids\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.exe
+E:\All Files Folder\CPS LAB\Mids\RandomWalk2D\RandomWalk2D\obj\Debug\RandomWalk2D.pdb
